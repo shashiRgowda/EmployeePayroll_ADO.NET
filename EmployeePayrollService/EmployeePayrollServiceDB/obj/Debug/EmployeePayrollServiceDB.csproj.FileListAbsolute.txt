@@ -1,0 +1,7 @@
+C:\Users\Admin\Pictures\EmployeePayrollServiceDB\EmployeePayrollServiceDB\bin\Debug\EmployeePayrollServiceDB.exe.config
+C:\Users\Admin\Pictures\EmployeePayrollServiceDB\EmployeePayrollServiceDB\bin\Debug\EmployeePayrollServiceDB.exe
+C:\Users\Admin\Pictures\EmployeePayrollServiceDB\EmployeePayrollServiceDB\bin\Debug\EmployeePayrollServiceDB.pdb
+C:\Users\Admin\Pictures\EmployeePayrollServiceDB\EmployeePayrollServiceDB\obj\Debug\EmployeePayrollServiceDB.csprojAssemblyReference.cache
+C:\Users\Admin\Pictures\EmployeePayrollServiceDB\EmployeePayrollServiceDB\obj\Debug\EmployeePayrollServiceDB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Pictures\EmployeePayrollServiceDB\EmployeePayrollServiceDB\obj\Debug\EmployeePayrollServiceDB.exe
+C:\Users\Admin\Pictures\EmployeePayrollServiceDB\EmployeePayrollServiceDB\obj\Debug\EmployeePayrollServiceDB.pdb
